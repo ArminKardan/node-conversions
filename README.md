@@ -1,1 +1,1 @@
-This is a simple data type conversion library.
+This is a simple data type conversion library by javascript in nodejs.
