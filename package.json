@@ -1,0 +1,29 @@
+{
+  "name": "node-conversions",
+  "version": "1.0.0",
+  "description": "a simple nodejs library for type converting, string base63 etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArminKardan/node-conversions.git"
+  },
+  "keywords": [
+    "Conversions",
+    "node",
+    "nodejs",
+    "data",
+    "convert",
+    "armin",
+    "arminkardan",
+    "kardan"
+  ],
+  "author": "Armin Kardan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArminKardan/node-conversions/issues"
+  },
+  "homepage": "https://github.com/ArminKardan/node-conversions#readme"
+}
